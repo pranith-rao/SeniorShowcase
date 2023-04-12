@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: black;
+}
+.navbar .nav-item a {
+  color: white;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+
+.navbar .nav-item a:hover {
+  color: black;
+  background-color: white;
+}
+
+.carousel-item {
+  height: 600px;
+}
+
+.coverpic {
+  width: 550px;
+  height: 300px;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.text {
+  margin-top: 40px;
+  text-align: justify;
+}
+
+.bttn {
+  background-color: black;
+  color: white;
+}
+
+.bttn:hover {
+  background-color: grey;
+  color: black;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+@media screen and (max-width: 768px) {
+  .coverpic {
+    width: 350px;
+    height: 350px;
+  }
+
+  .carousel-item {
+    height: 250px;
+  }
+
+  .text {
+    margin: 10px;
+    text-align: justify;
+  }
+
+  .text p {
+    margin-right: 10px;
+  }
+}
