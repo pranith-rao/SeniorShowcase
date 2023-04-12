@@ -27,6 +27,6 @@ Click on this link http://pranith-banking.great-site.net/ and let me know how it
 ![Screenshot (1868)](https://user-images.githubusercontent.com/65860350/231559548-ac115d84-4a6f-43b9-853a-a5a4fbc75614.png)
 #### Transfer Form & Confirmation
 ![Screenshot (1870)](https://user-images.githubusercontent.com/65860350/231559640-b19fa2cd-766f-4320-8e39-147a45c17963.png)
-![Screenshot (1871)](https://user-images.githubusercontent.com/65860350/231559671-a4960003-de01-4f00-b8b2-aeb37fd6d591.png)
+![download](https://user-images.githubusercontent.com/65860350/231568289-da84dbe1-48b5-4523-81a8-6ca609db2ce3.png)
 #### Transactions Tab
 ![Screenshot (1869)](https://user-images.githubusercontent.com/65860350/231559769-35198ee9-460e-4323-a295-588e2db9d1b9.png)
